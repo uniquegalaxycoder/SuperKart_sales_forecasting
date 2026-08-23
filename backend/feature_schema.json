@@ -1,0 +1,17 @@
+{
+  "numeric_features": [
+    "Product_Weight",
+    "Product_Allocated_Area",
+    "Product_MRP",
+    "Store_Age_Years"
+  ],
+  "categorical_features": [
+    "Product_Sugar_Content",
+    "Store_Size",
+    "Store_Location_City_Type",
+    "Store_Type",
+    "Product_Id_char",
+    "Product_Type_Category"
+  ],
+  "target": "Product_Store_Sales_Total"
+}
